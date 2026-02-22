@@ -1,4 +1,4 @@
-## Customer Churn Analysis for DTH Services
+# Customer Churn Analysis for DTH Services
 
-# Problem Statement 
+## Problem Statement 
 Due to the intense rivalry now present in the industry, it is difficult for DTH service providers to keep their existing clientele. As a result, the DTH provider wants to create a model that would allow them to segment their offers and do account churn prediction. Because one account can have several customers, account churn is a significant issue with this organization. Therefore, by losing one account, the business could lose multiple clients. We were tasked with creating a churn prediction model for this business and making business suggestions regarding the campaign. The campaign or model must be distinct and well-defined when offers are put forth. In order for the firm to avoid revenue losses and, on the other hand, be able to keep clients, the suggested offers should have a win-win situation for both the company and the customers.
